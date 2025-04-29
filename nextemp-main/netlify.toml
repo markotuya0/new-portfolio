@@ -3,8 +3,6 @@
   command = "npm run build"
   publish = "nextemp-main/.next"
 
-[[plugins]]
-  package = "@netlify/next"
 
 # Optional: fallback for unsupported pages
 [[redirects]]

@@ -1,7 +1,7 @@
 [build]
   base    = "nextemp-main"
   command = "npm run build"
-  publish = "nextemp-main/.next"
+  publish = ".next"
 
 
 # Optional: fallback for unsupported pages

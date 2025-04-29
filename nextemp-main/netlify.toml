@@ -1,7 +1,7 @@
 [build]
   base    = "nextemp-main"
   command = "npm run build"
-  publish = "nextemp-main/out"  # or .next or build, depending on your setup
+  publish =  ".next"# or .next or build, depending on your setup
 
 
 [[redirects]]

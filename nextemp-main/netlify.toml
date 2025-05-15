@@ -1,8 +1,6 @@
 [build]
-  base    = "nextemp-main"
   command = "npm run build"
   publish = ".next"
-
 
 # Optional: fallback for unsupported pages
 [[redirects]]
